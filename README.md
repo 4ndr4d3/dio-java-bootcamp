@@ -40,11 +40,3 @@ Projetos práticos para aplicar os conhecimentos adquiridos
 
 Não são necessários conhecimentos prévios de programação para participar deste curso. No entanto, é recomendado ter familiaridade com conceitos básicos de lógica de programação.
 
-# Como Acessar o Curso
-
-O curso está disponível no GitHub, no seguinte repositório: java-basico. Você pode acessar o repositório para obter os materiais do curso, incluindo as aulas, exercícios e projetos práticos.
-
-# Conclusão
-
-Este curso de Java básico é uma ótima maneira de começar a aprender a linguagem de programação Java. Ele fornece uma base sólida nos conceitos fundamentais da linguagem e prepara você para avançar para tópicos mais avançados no futuro.
-Divirta-se aprendendo Java!
